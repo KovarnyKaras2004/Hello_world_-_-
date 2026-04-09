@@ -1,0 +1,18 @@
+--2026-04-07 00:36:40--  https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/410/535/GCF_000410535.2_ASM41053v2/GCF_000410535.2_ASM41053v2_genomic.fna.gz
+Resolving ftp.ncbi.nlm.nih.gov (ftp.ncbi.nlm.nih.gov)... 130.14.250.10, 130.14.250.31, 2607:f220:41e:250::12, ...
+Connecting to ftp.ncbi.nlm.nih.gov (ftp.ncbi.nlm.nih.gov)|130.14.250.10|:443... failed: Connection refused.
+Connecting to ftp.ncbi.nlm.nih.gov (ftp.ncbi.nlm.nih.gov)|130.14.250.31|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 340746 (333K) [application/x-gzip]
+Saving to: ‘GCF_000410535.2_ASM41053v2_genomic.fna.gz’
+
+     0K .......... .......... .......... .......... .......... 15%  134K 2s
+    50K .......... .......... .......... .......... .......... 30%  263K 1s
+   100K .......... .......... .......... .......... .......... 45% 8.85M 1s
+   150K .......... .......... .......... .......... .......... 60%  273K 0s
+   200K .......... .......... .......... .......... .......... 75%  263K 0s
+   250K .......... .......... .......... .......... .......... 90%  507M 0s
+   300K .......... .......... .......... ..                   100% 5.80M=0.9s
+
+2026-04-07 00:36:43 (351 KB/s) - ‘GCF_000410535.2_ASM41053v2_genomic.fna.gz’ saved [340746/340746]
+
